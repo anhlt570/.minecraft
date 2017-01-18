@@ -1,0 +1,37 @@
+---- Minecraft Crash Report ----
+// Sorry :(
+
+Time: 7/27/16 8:25 PM
+Description: Exception in server tick loop
+
+java.lang.NoSuchMethodError: com.google.common.collect.Iterators.emptyIterator()Lcom/google/common/collect/UnmodifiableIterator;
+	at ob.iterator(SourceFile:114)
+	at atj.a(SourceFile:243)
+	at atj.a(SourceFile:104)
+	at lr.c(SourceFile:147)
+	at lr.a(SourceFile:166)
+	at ls.a(SourceFile:884)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:372)
+	at bzl.a(SourceFile:214)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:572)
+	at bzl.C(SourceFile:155)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:458)
+	at java.lang.Thread.run(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.10.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_91, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 185247728 bytes (176 MB) / 783233024 bytes (746 MB) up to 1060372480 bytes (1011 MB)
+	JVM Flags: 6 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 8; [lu['TuanAnh'/424, l='Jungle_world', x=326.43, y=11.00, z=134.32]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Probably not. Jar signature remains and both client + server brands are untouched.

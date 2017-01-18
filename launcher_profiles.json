@@ -1,0 +1,51 @@
+{
+  "profiles": {
+    "TunaLee": {
+      "name": "TunaLee",
+      "launcherVisibilityOnGameClose": "close launcher when game starts"
+    }
+  },
+  "selectedProfile": "TunaLee",
+  "clientToken": "282abc85-c244-4915-8bab-1ae55cdd74b6",
+  "authenticationDatabase": {
+    "TuanAnh": {
+      "displayName": "TuanAnh",
+      "userid": "TuanAnh",
+      "uuid": "ff7d9e3a-41dd-333c-ae00-b2db6e4da91c",
+      "username": "TuanAnh"
+    },
+    "ff7d9e3a41dd333cae00b2db6e4da91c": {
+      "displayName": "TuanAnh",
+      "accessToken": "null",
+      "userid": "TuanAnh",
+      "uuid": "ff7d9e3a-41dd-333c-ae00-b2db6e4da91c",
+      "username": "TuanAnh"
+    },
+    "5de154396b7536f0ae4f46b914be1e33": {
+      "displayName": "TuanAnhLee",
+      "accessToken": "null",
+      "userid": "TuanAnhLee",
+      "uuid": "5de15439-6b75-36f0-ae4f-46b914be1e33",
+      "username": "TuanAnhLee"
+    },
+    "6382a22ee6783e16930bd66e6a2e0a6d": {
+      "displayName": "sd",
+      "accessToken": "null",
+      "userid": "sd",
+      "uuid": "6382a22e-e678-3e16-930b-d66e6a2e0a6d",
+      "username": "sd"
+    },
+    "abc3966110a331158a84df326dec93de": {
+      "displayName": "TunaLee",
+      "accessToken": "null",
+      "userid": "TunaLee",
+      "uuid": "abc39661-10a3-3115-8a84-df326dec93de",
+      "username": "TunaLee"
+    }
+  },
+  "selectedUser": "TuanAnh",
+  "launcherVersion": {
+    "name": "1.5",
+    "format": 16
+  }
+}
