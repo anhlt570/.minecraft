@@ -1,156 +1,44 @@
-[12:15:14] [Client thread/INFO]: Setting user: TuanAnh
-[12:15:16] [Client thread/INFO]: LWJGL Version: 2.9.4
-[12:15:18] [Client thread/WARN]: Removed selected resource pack [1.10] R3D CRAFT 32x (v0.2.9).zip because it's no longer compatible
-[12:15:18] [Client thread/INFO]: Reloading ResourceManager: Default
-[12:15:18] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[12:15:18] [Thread-5/INFO]: Initializing LWJGL OpenAL
-[12:15:18] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[12:15:19] [Thread-5/INFO]: OpenAL initialized.
-[12:15:19] [Sound Library Loader/INFO]: Sound engine started
-[12:15:22] [Client thread/INFO]: Created: 1024x512 textures-atlas
-[12:15:25] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
-[12:15:37] [Server thread/INFO]: Starting integrated minecraft server version 1.11.2
-[12:15:37] [Server thread/INFO]: Generating keypair
-[12:15:37] [Server thread/INFO]: Preparing start region for level 0
-[12:15:38] [Server thread/INFO]: Preparing spawn area: 24%
-[12:15:39] [Server thread/INFO]: Changing view distance to 25, from 10
-[12:15:40] [Server thread/INFO]: TuanAnh[local:E:0c64f430] logged in with entity id 409 at (-397.52640037255566, 71.0, 643.3523044401413)
-[12:15:40] [Server thread/INFO]: TuanAnh joined the game
-[12:15:43] [Server thread/WARN]: Keeping entity minecraft:bat that already exists with UUID 8de9b878-e07c-44a4-9b5e-36b38c539e05
-[12:15:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5688ms behind, skipping 113 tick(s)
-[12:15:56] [Server thread/INFO]: Saving and pausing game...
-[12:15:56] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Overworld
-[12:15:57] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Nether
-[12:15:57] [Server thread/INFO]: Saving chunks for level '17/9/2016'/The End
-[12:16:01] [Server thread/INFO]: Saving and pausing game...
-[12:16:01] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Overworld
-[12:16:02] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Nether
-[12:16:02] [Server thread/INFO]: Saving chunks for level '17/9/2016'/The End
-[12:16:25] [Server thread/INFO]: Saving and pausing game...
-[12:16:25] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Overworld
-[12:16:26] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Nether
-[12:16:26] [Server thread/INFO]: Saving chunks for level '17/9/2016'/The End
-[12:17:09] [Server thread/INFO]: Saving and pausing game...
-[12:17:09] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Overworld
-[12:17:09] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Nether
-[12:17:09] [Server thread/INFO]: Saving chunks for level '17/9/2016'/The End
-[12:17:41] [Server thread/INFO]: Saving and pausing game...
-[12:17:41] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Overworld
-[12:17:41] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Nether
-[12:17:41] [Server thread/INFO]: Saving chunks for level '17/9/2016'/The End
-[12:21:27] [Client thread/INFO]: Reloading ResourceManager: Default, Majestica 1.11.X 32x32.zip
-[12:21:28] [Client thread/INFO]: SoundSystem shutting down...
-[12:21:28] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[12:21:28] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[12:21:28] [Thread-9/INFO]: Initializing LWJGL OpenAL
-[12:21:28] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[12:21:28] [Thread-9/INFO]: OpenAL initialized.
-[12:21:29] [Sound Library Loader/INFO]: Sound engine started
-[12:21:30] [Client thread/INFO]: Created: 2048x1024 textures-atlas
-[12:21:47] [Thread-9/ERROR]: Error in class 'LibraryLWJGLOpenAL'
-[12:21:47] [Thread-9/ERROR]: Source 'aa56341c-aaa1-4362-972c-19b3b0c18916' not found in method 'play'
-[12:21:56] [Server thread/INFO]: Saving and pausing game...
-[12:21:56] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Overworld
-[12:21:57] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Nether
-[12:21:57] [Server thread/INFO]: Saving chunks for level '17/9/2016'/The End
-[12:22:15] [Client thread/INFO]: Reloading ResourceManager: Default, Soartex_Fanver.zip
-[12:22:16] [Client thread/INFO]: SoundSystem shutting down...
-[12:22:16] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
-[12:22:16] [Sound Library Loader/INFO]: Starting up SoundSystem...
-[12:22:17] [Thread-11/INFO]: Initializing LWJGL OpenAL
-[12:22:17] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
-[12:22:17] [Thread-11/INFO]: OpenAL initialized.
-[12:22:17] [Sound Library Loader/INFO]: Sound engine started
-[12:22:18] [Client thread/INFO]: Created: 4096x2048 textures-atlas
-[12:25:33] [Server thread/INFO]: Saving and pausing game...
-[12:25:33] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Overworld
-[12:25:33] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Nether
-[12:25:33] [Server thread/INFO]: Saving chunks for level '17/9/2016'/The End
-[12:31:00] [Server thread/INFO]: Saving and pausing game...
-[12:31:00] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Overworld
-[12:31:01] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Nether
-[12:31:01] [Server thread/INFO]: Saving chunks for level '17/9/2016'/The End
-[12:31:05] [Server thread/INFO]: Stopping server
-[12:31:05] [Server thread/INFO]: Saving players
-[12:31:05] [Server thread/INFO]: TuanAnh lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
-[12:31:05] [Server thread/INFO]: TuanAnh left the game
-[12:31:05] [Server thread/INFO]: Stopping singleplayer server as player logged out
-[12:31:05] [Server thread/INFO]: Saving worlds
-[12:31:05] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Overworld
-[12:31:05] [Server thread/INFO]: Saving chunks for level '17/9/2016'/Nether
-[12:31:05] [Server thread/INFO]: Saving chunks for level '17/9/2016'/The End
-[12:31:05] [File IO Thread/INFO]: [STDERR]: java.io.IOException: Stream Closed
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at java.io.RandomAccessFile.seek0(Native Method)
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at java.io.RandomAccessFile.seek(Unknown Source)
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at avb.a(SourceFile:323)
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at avb.a(SourceFile:263)
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at avb$a.close(SourceFile:244)
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at java.util.zip.DeflaterOutputStream.close(Unknown Source)
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at java.io.FilterOutputStream.close(Unknown Source)
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at java.io.FilterOutputStream.close(Unknown Source)
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at avd.b(SourceFile:160)
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at avd.c(SourceFile:145)
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at bdp.c(SourceFile:37)
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at bdp.run(SourceFile:30)
-[12:31:05] [File IO Thread/INFO]: [STDERR]: 	at java.lang.Thread.run(Unknown Source)
-[12:31:30] [Server thread/INFO]: Starting integrated minecraft server version 1.11.2
-[12:31:30] [Server thread/INFO]: Generating keypair
-[12:31:31] [Server thread/INFO]: Preparing start region for level 0
-[12:31:32] [Server thread/INFO]: Preparing spawn area: 12%
-[12:31:33] [Server thread/INFO]: Preparing spawn area: 23%
-[12:31:34] [Server thread/INFO]: Preparing spawn area: 36%
-[12:31:35] [Server thread/INFO]: Preparing spawn area: 48%
-[12:31:36] [Server thread/INFO]: Preparing spawn area: 64%
-[12:31:37] [Server thread/INFO]: Preparing spawn area: 83%
-[12:31:38] [Server thread/INFO]: Changing view distance to 25, from 10
-[12:31:39] [Server thread/INFO]: TuanAnh[local:E:32d16fbb] logged in with entity id 8016 at (-516.5, 64.0, -188.5)
-[12:31:39] [Server thread/INFO]: TuanAnh joined the game
-[12:31:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2373ms behind, skipping 47 tick(s)
-[12:32:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 16525ms behind, skipping 330 tick(s)
-[12:32:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3525ms behind, skipping 70 tick(s)
-[12:35:33] [Server thread/INFO]: TuanAnh has just earned the achievement [Taking Inventory]
-[12:35:33] [Client thread/INFO]: [CHAT] TuanAnh has just earned the achievement [Taking Inventory]
-[12:40:14] [Server thread/INFO]: TuanAnh was slain by Zombie
-[12:40:14] [Client thread/INFO]: [CHAT] TuanAnh was slain by Zombie
-[12:40:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2217ms behind, skipping 44 tick(s)
-[12:47:12] [Server thread/INFO]: TuanAnh was slain by Zombie
-[12:47:12] [Client thread/INFO]: [CHAT] TuanAnh was slain by Zombie
-[12:52:05] [Server thread/INFO]: TuanAnh was slain by Spider
-[12:52:05] [Client thread/INFO]: [CHAT] TuanAnh was slain by Spider
-[12:52:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2882ms behind, skipping 57 tick(s)
-[13:00:52] [Server thread/INFO]: TuanAnh fell from a high place
-[13:00:52] [Client thread/INFO]: [CHAT] TuanAnh fell from a high place
-[13:00:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2195ms behind, skipping 43 tick(s)
-[13:01:09] [Server thread/INFO]: Saving and pausing game...
-[13:01:09] [Server thread/INFO]: Saving chunks for level 'ta-1'/Overworld
-[13:01:16] [Server thread/INFO]: Saving chunks for level 'ta-1'/Nether
-[13:01:16] [Server thread/INFO]: Saving chunks for level 'ta-1'/The End
-[13:05:36] [Server thread/INFO]: TuanAnh was shot by Skeleton
-[13:05:36] [Client thread/INFO]: [CHAT] TuanAnh was shot by Skeleton
-[13:10:39] [Server thread/INFO]: Saving and pausing game...
-[13:10:39] [Server thread/INFO]: Saving chunks for level 'ta-1'/Overworld
-[13:10:40] [Server thread/INFO]: Saving chunks for level 'ta-1'/Nether
-[13:10:40] [Server thread/INFO]: Saving chunks for level 'ta-1'/The End
-[13:12:35] [Server thread/INFO]: TuanAnh has just earned the achievement [Getting Wood]
-[13:12:35] [Client thread/INFO]: [CHAT] TuanAnh has just earned the achievement [Getting Wood]
-[13:24:53] [Server thread/INFO]: TuanAnh was shot by Skeleton
-[13:24:53] [Client thread/INFO]: [CHAT] TuanAnh was shot by Skeleton
-[13:24:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2199ms behind, skipping 43 tick(s)
-[13:25:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9716ms behind, skipping 194 tick(s)
-[13:31:41] [Server thread/INFO]: TuanAnh was blown up by Creeper
-[13:31:41] [Client thread/INFO]: [CHAT] TuanAnh was blown up by Creeper
-[13:31:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10790ms behind, skipping 215 tick(s)
-[13:32:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3595ms behind, skipping 71 tick(s)
-[13:32:05] [Server thread/INFO]: Saving and pausing game...
-[13:32:05] [Server thread/INFO]: Saving chunks for level 'ta-1'/Overworld
-[13:32:06] [Server thread/INFO]: Saving chunks for level 'ta-1'/Nether
-[13:32:06] [Server thread/INFO]: Saving chunks for level 'ta-1'/The End
-[13:36:57] [Client thread/INFO]: Stopping!
-[13:36:57] [Client thread/INFO]: SoundSystem shutting down...
-[13:36:57] [Server thread/INFO]: Stopping server
-[13:36:57] [Server thread/INFO]: Saving players
-[13:36:57] [Server thread/INFO]: Saving worlds
-[13:36:57] [Server thread/INFO]: Saving chunks for level 'ta-1'/Overworld
-[13:36:57] [Server thread/INFO]: Saving chunks for level 'ta-1'/Nether
-[13:36:57] [Server thread/INFO]: Saving chunks for level 'ta-1'/The End
-[13:36:57] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[17:52:56] [Client thread/INFO]: Setting user: TuanAnh
+[17:52:57] [Client thread/INFO]: LWJGL Version: 2.9.4
+[17:53:00] [Client thread/INFO]: Reloading ResourceManager: Default, Soartex_Fanver.zip
+[17:53:00] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:53:00] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[17:53:00] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:53:01] [Thread-5/INFO]: OpenAL initialized.
+[17:53:01] [Sound Library Loader/INFO]: Sound engine started
+[17:53:03] [Client thread/INFO]: Created: 4096x2048 textures-atlas
+[17:53:06] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[17:53:09] [Server thread/INFO]: Starting integrated minecraft server version 1.11.2
+[17:53:09] [Server thread/INFO]: Generating keypair
+[17:53:09] [Server thread/INFO]: Preparing start region for level 0
+[17:53:10] [Server thread/INFO]: Preparing spawn area: 32%
+[17:53:11] [Server thread/INFO]: Changing view distance to 25, from 10
+[17:53:11] [Server thread/INFO]: TuanAnh[local:E:7cc5feab] logged in with entity id 339 at (-350.9377849465759, 65.0, 1209.3757784742013)
+[17:53:11] [Server thread/INFO]: TuanAnh joined the game
+[17:53:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4134ms behind, skipping 82 tick(s)
+[17:53:16] [Server thread/INFO]: Saving and pausing game...
+[17:53:16] [Server thread/INFO]: Saving chunks for level 'ta-1'/Overworld
+[17:53:16] [Server thread/INFO]: Saving chunks for level 'ta-1'/Nether
+[17:53:16] [Server thread/INFO]: Saving chunks for level 'ta-1'/The End
+[17:55:11] [Server thread/INFO]: Saving and pausing game...
+[17:55:11] [Server thread/INFO]: Saving chunks for level 'ta-1'/Overworld
+[17:55:11] [Server thread/INFO]: Saving chunks for level 'ta-1'/Nether
+[17:55:11] [Server thread/INFO]: Saving chunks for level 'ta-1'/The End
+[17:58:06] [Server thread/INFO]: TuanAnh has just earned the achievement [Benchmarking]
+[17:58:06] [Client thread/INFO]: [CHAT] TuanAnh has just earned the achievement [Benchmarking]
+[18:31:50] [Server thread/INFO]: Saving and pausing game...
+[18:31:50] [Server thread/INFO]: Saving chunks for level 'ta-1'/Overworld
+[18:31:50] [Server thread/INFO]: Saving chunks for level 'ta-1'/Nether
+[18:31:50] [Server thread/INFO]: Saving chunks for level 'ta-1'/The End
+[18:36:44] [Client thread/INFO]: Stopping!
+[18:36:44] [Client thread/INFO]: SoundSystem shutting down...
+[18:36:44] [Server thread/INFO]: Stopping server
+[18:36:44] [Server thread/INFO]: Saving players
+[18:36:44] [Server thread/INFO]: TuanAnh lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[18:36:44] [Server thread/INFO]: TuanAnh left the game
+[18:36:44] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[18:36:44] [Server thread/INFO]: Saving worlds
+[18:36:44] [Server thread/INFO]: Saving chunks for level 'ta-1'/Overworld
+[18:36:44] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[18:36:45] [Server thread/INFO]: Saving chunks for level 'ta-1'/Nether
+[18:36:45] [Server thread/INFO]: Saving chunks for level 'ta-1'/The End

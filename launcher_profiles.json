@@ -2,6 +2,7 @@
   "profiles": {
     "TunaLee": {
       "name": "TunaLee",
+      "lastVersionId": "1.11.2",
       "launcherVisibilityOnGameClose": "close launcher when game starts"
     }
   },
